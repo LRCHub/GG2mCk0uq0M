@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ENIGMASIS",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-03-24T10:00:15.059393Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UVER Battle Royal ～ENIGMASIS mix～",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_UVER_Battle_Royal_~ENIGMASIS_mix~_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UVER Battle Royal ～ENIGMASIS mix～",
+      "artist": "UVERworld feat. Anarchy & SHUNTO",
+      "has_synced": true,
+      "path": "select/02_UVER_Battle_Royal_~ENIGMASIS_mix~_UVERworld_feat._Anarchy_&_SHUNTO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UVER Battle Royal ～ENIGMASIS mix～ (feat. Anarchy & SHUNTO)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/03_UVER_Battle_Royal_~ENIGMASIS_mix~_(feat._Anarchy_&_SHUNTO)_UVERworld.lrc"
+    }
+  ]
+}
